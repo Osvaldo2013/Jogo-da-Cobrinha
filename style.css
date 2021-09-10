@@ -1,0 +1,27 @@
+body{
+    height:95vh;
+    width: 95 ;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+color: rgb(18, 78, 18);
+margin-left: 40%;
+
+}
+.img{
+      
+    margin-right: 150%;
+    height: 5%;
+    margin-top: 2%;
+   
+   }
+   .titulo{
+       display:flex;
+       margin-right: 50%;
+       font-size: 30pt ;
+       color: black;
+     
+      
+       
+   }
